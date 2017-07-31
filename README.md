@@ -18,5 +18,5 @@ Submodule 'Projects/Light' (https://github.com/andres-rojas/ios-light) registere
 
 $ git submodule update
 Cloning into '/Users/bb/github/app-development-with-swift/Projects/Light'...
-Submodule path 'Projects/Light': checked out '0f7a432b51f6735380a23cabf4a5d8d43458599c'
+Submodule path 'Projects/Light': checked out '04c58b9038c8e86268a937c2e683d9b5d00d7375'
 ```
